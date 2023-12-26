@@ -9,7 +9,7 @@ I found programing just before graduating high school and I have no regrets. Ach
 * 🌍  I'm based in Lithuania
 * ✉️  You can contact me at [augisvelicka@gmail.com](mailto:augisvelicka@gmail.com)
 * 🚀  I'm currently working on [My personal portfolio website.](http://github.com/Babuska007/My-portfolio)
-* 🧠  I'm learning Python, HTML, CSS, JavaScript and data bases work.
+* 🧠  I'm learning Python, HTML, CSS, JavaScript and data bases.
 * 🤝  I'm open to collaborating on creating an IOS app (fitness, video game, etc.)
 
 ### Skills
